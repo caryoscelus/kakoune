@@ -273,7 +273,7 @@ Normal Mode
 ~~~~~~~~~~~
 
 In normal mode, keys are not inserted directly inside the buffer, but are editing
-commands. These commands provides ways to manipulate either the selections themselves,
+commands. These commands provide ways to manipulate either the selections themselves,
 or the selected text.
 
 Insert Mode
